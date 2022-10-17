@@ -1,18 +1,18 @@
 <b>Conversor de moedas</b>
 
-✨ Tecnologias <br>
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+✨ Technologies<br>
+This project was developed with these technologies:
 <ul>
   <li>Flutter</li>
   <li>Dart</li>
+  <li>JSON</li>
 </ul>
 <br>
 💻 Projeto <br>
-O aplicativo realiza o cálculo automático na conversão das seguintes moedas: <br>
+The application performs the automatic calculation of the conversion, seeking the quote of the day through JSON, for the following currencies: <br>
  - Real <br>
  - Dólar <br>
- - Euro <br>
-O sistema consulta a cotação do dia, via JSON, para realizar o cálculo corretamente.  <br><br>
+ - Euro. <br><br>
 
-Feito com ♥ by Ketlen Rieper
+Developed with ♥ by  Ketlen Rieper
 
