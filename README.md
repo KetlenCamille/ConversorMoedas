@@ -8,7 +8,7 @@ This project was developed with these technologies:
   <li>JSON</li>
 </ul>
 <br>
-💻 Projeto <br>
+💻 Project <br>
 The application performs the automatic calculation of the conversion, seeking the quote of the day through JSON, for the following currencies: <br>
  - Real <br>
  - Dólar <br>
